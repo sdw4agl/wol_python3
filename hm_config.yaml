@@ -1,23 +1,23 @@
-DSM:
-  MAC: 00:26:2D:06:7C:A4
+PC1:
+  MAC: AA:BB:CC:CC:DD:EE
   IP_addr: 192.168.1.3
   slp_time: 30
   ping_num: 30
 
-PC:
-  MAC: 9C:5C:8E:91:ED:E1
+PC2:
+  MAC: AA:BB:CC:CC:DD:EE
   IP_addr: 192.168.1.4
   slp_time: 20
   ping_num: 20
 
-I3-6100T:
-  MAC: 60:45:CB:73:E3:D5
+PC3:
+  MAC: AA:BB:CC:CC:DD:EE
   IP_addr: 192.168.1.2
   slp_time: 40
   ping_num: 20
 
-SuperMicro:
-  MAC: AC:1F:6B:71:53:E0
+PC4:
+  MAC: AA:BB:CC:CC:DD:EE
   IP_addr: 192.168.1.5
   slp_time: 40
   ping_num: 20
